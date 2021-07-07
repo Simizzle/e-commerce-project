@@ -1,5 +1,3 @@
-// import { CatImageAPI } from "./CatImageAPI";
-
 const Card = (props) => {
     return (
       <div className="cardInfo">

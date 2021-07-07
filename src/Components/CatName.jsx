@@ -7,7 +7,7 @@ let catNames = (randomName, names[randomName]);
 
 return(
     <div className="catName">
-        <h3>{catNames}</h3>
+        <h3>My name is {catNames}</h3>
     </div>
     )
 }
