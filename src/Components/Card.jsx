@@ -1,4 +1,4 @@
-import { CatImageAPI } from "./CatImageAPI";
+// import { CatImageAPI } from "./CatImageAPI";
 
 const Card = (props) => {
     return (
